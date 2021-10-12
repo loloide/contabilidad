@@ -2,16 +2,20 @@
     padding-top: 10%;
     /* width: 100px; */
     font-family: 'Roboto Condensed';
+    width: 100px;
 }
 footer {
     position: fixed;
-    bottom: 0px;
+    bottom: 10px;
     width: 100%;
     color: gray;
     font-family: 'Roboto Condensed';
+
   }
 body {
-    background-color: #e4e4e4;
+    background-color: #e2d6d6;
     align-items: center;
     text-align: center; 
+    padding-left: 25%;
+    padding-right: 25%;
 }
