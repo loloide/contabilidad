@@ -27,5 +27,8 @@ img {
     font-size: 30px;
 }
 .product-desc {
-    font-size: 10px;
+    font-size: 13px;
+}
+nav {
+    font-family: 'Roboto Condensed';
 }
