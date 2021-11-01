@@ -15,7 +15,6 @@ body {
     text-align: center; 
     padding-left: 25%;
     padding-right: 25%;
-
     font-family: 'Roboto Condensed';
 }
 .product-card {
@@ -34,5 +33,5 @@ h1 {
     font-size: 40px;
 }
 #frags-logo {
-    size: 100px;
+    max-width: 100px;
 }
